@@ -9,7 +9,7 @@ body { color: #333333; line-height: 1.4em; background-color: #FAFAFA; font-famil
 
 .download { display: block; text-align: right; }
 
-#resume { max-width: 800px; position: relative; margin-left: auto; margin-right: auto; margin-bottom: 30px; padding: 10px; /*Custom CSS*/ /*Let the user make a horizontal list*/ /*Remove bullets from top list for contact*/ /*Subtle list bullets*/ /*Float right for contact information*/ }
+#resume { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); background-color: #FFF; max-width: 800px; position: relative; margin: 0; padding: 8px 30px; /*Custom CSS*/ /*Let the user make a horizontal list*/ /*Remove bullets from top list for contact*/ /*Subtle list bullets*/ /*Float right for contact information*/ }
 #resume h1, #resume h2, #resume h3, #resume h4, #resume h5, #resume h6 { border: 0; }
 #resume h1 { font-size: 170%; padding-top: 0.5em; margin-top: 1.5em; }
 #resume h1:first-child { margin-top: 0.3em; padding-bottom: 0.3em; padding-top: 0.25em; border-top: none; font-size: 230%; }
@@ -36,11 +36,11 @@ body { color: #333333; line-height: 1.4em; background-color: #FAFAFA; font-famil
 #resume ul { list-style-type: none; }
 #resume li { text-indent: -1.1em; }
 #resume li:before { content: '■'; padding-right: 0.5em; color: #b4c2a4; }
-@media (min-width: 840px) and (min-device-width: 840px) { #resume { /*Let the user make a horizontal list*/ /*Float right italics after an h4,
+@media (min-width: 840px) and (min-device-width: 840px) { #resume { margin: 30px auto; /*Let the user make a horizontal list*/ /*Float right italics after an h4,
 * Meant for dates.
 */ }
   #resume h1:first-child { margin-top: 1em; }
-  #resume h1 + ul { font-size: 110%; float: right; text-align: right; position: absolute; right: 0.7em; top: 1em; margin: 0; }
+  #resume h1 + ul { font-size: 110%; float: right; text-align: right; position: absolute; right: 1.8em; top: 1em; margin: 0; }
   #resume ul, #resume ol { margin-left: 0; }
   #resume .horizontal-list + ul li { width: 19%; }
   #resume h4 + p > em { color: #4e5d3d; margin-top: -3.4em; padding-top: 0; font-size: 110%; float: right; text-align: right; } }

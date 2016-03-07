@@ -45,12 +45,12 @@ body {
 }
 
 #resume {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: #FFF;
   max-width: $resume-width;
   position: relative;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 30px;
-  padding: 10px;
+  margin: 0;
+  padding: 8px 30px;
 
   h1, h2, h3, h4, h5, h6 {
     border: 0;
@@ -188,6 +188,7 @@ body {
   /*Float right for contact information*/
   @media (min-width: $resume-width * 1.05) and
       (min-device-width: $resume-width * 1.05) {
+    margin: 30px auto;
     h1:first-child {
       margin-top: 1em;
     }
@@ -196,7 +197,7 @@ body {
          float: right;
          text-align: right;
          position: absolute;
-         right: 0.7em;
+         right: 1.8em;
          top: 1em;
          margin: 0;
      }

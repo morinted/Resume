@@ -7,10 +7,11 @@
 ## About Ted
 
 A University of Ottawa co-op student studying to be a software engineer, with a
-strong interest in web technologies. Enthusiastic about the industry, and
-excited to work on projects that have a big impact on people's lives.
-Programming is a passion. Clean, efficient, and understandable code is
-personally important, regardless of the project. Prefer working with a team in a
+strong interest in web technologies and applications of technology for
+accessibility purposes. Enthusiastic about the industry, and excited to work
+on projects that have a big impact on people's lives.  Programming is a
+passion. Clean, efficient, and understandable code is personally important,
+regardless of the project or language. Prefer working with a team in a
 position that allows for growth and learning.
 
 ## Technologies
@@ -19,18 +20,13 @@ position that allows for growth and learning.
 
 - JavaScript
 - React
-- Ionic
+- Node
 - Angular
-- Node.js
-- jQuery
-- Java
+- Ionic
 - Python
-- Django
-- VB.NET
-- C++
-- PostgreSQL
-- MongoDB
-- PHP
+- Java
+- Scala
+- C/C++
 - AutoHotKey
 
 ## Experience
@@ -40,10 +36,8 @@ position that allows for growth and learning.
 An open source contributor on GitHub account
 [morinted](https://github.com/morinted).
 
-- Current Lead Developer on Plover, the Open Source Stenography Program written (Python)
+- Current lead developer for Plover, [open source stenography software](http://opensteno.org) written in Python.
 - Original projects include:
-    * a rolling log implementation for AngularJS paired with Cordova, with a
-      focus on using promises (futures) for asynchronous code.
     * a schedule generator for the University of Ottawa. This Java project used
       a UML code generator for its core data structures, has a Swing/AWT GUI,
       draws on a Canvas, and uses a client/server architecture. The web scraping
@@ -51,16 +45,18 @@ An open source contributor on GitHub account
       job that explores the uOttawa website to grab all the course names, and
       the second is a multi-threaded script to grab the course
       details, and parses the data with Beautiful Soup and RegEx.
-- Submitted bug reports with follow-up for the Ionic framework and the Ionic
-  keyboard.
+    * Bozzy, a stenographic dictionary reader written in Scala, as a fourth
+      year capstone project.
 
-### Clearwater Clinical
+### [Clearwater Clinical](http://www.clearwaterclinical.com/)
 
 #### Full Stack Developer
 
-*August 2015 to December 2015*
+*August 2015 to present*
 
-Extended a Java server that interfaced with AWS in order to support a cloud-based application, then build a web front end in React with Redux.
+- Work on a Java server that interfaced with AWS in order to support a cloud-based application.
+- Select a technology and build a front-end portal for each of Clearwater's products. The React-Redux portals saw a quick startup and get rapidly updated and released.
+- Sprint management was done through Jira, and code reviews with Gerrit.
 
 ### Telepin Software
 
@@ -74,11 +70,7 @@ Built a mobile application for mobile transactions using the Ionic framework.
   design, development, and into user acceptance testing.
 - Practiced test driven development with an end-to-end and unit test suite to
   ensure that the application was always customer-ready.
-- Performed and received code reviews using Gerrit.
-- Tracked issues and development goals with Atlassian Jira.
-- Wrote documentation in Atlassian Confluence for the application for future
-  developers, including guides for environment setup and design documents
-  explaining major decisions.
+- Performed and received code reviews using Gerrit, tracked issues and development goals with Atlassian Jira.
 - Conducted the JavaScript portion of interviews for development positions and
   aided in selecting candidates.
 
@@ -90,8 +82,6 @@ Built a mobile application for mobile transactions using the Ionic framework.
 
 *May 2013 to August 2013*
 
-- Ensured new builds of the GCMS were functional and fast, using automated
-  tests.
 - Redesigned the test-running Java GUI to be more concise by reducing clutter
   and predicting user action.
 - Automated the running of the regression test suite using an AutoHotKey script
@@ -102,16 +92,15 @@ Built a mobile application for mobile transactions using the Ionic framework.
 - Created VBA macro-enabled Excel spreadsheets to automate manual tasks that the
   team had been assigned.
 
-### RB Computing Inc.
+### [RB Computing Inc.](http://shoprbc.com)
 
 #### Computer Technician and Sales
 
 *July 2011 to present day*
 
 - Build, sell, diagnose, and repair Windows PCs.
-- Compile the bi-weekly newsletter.
 - Write scripts in Node.js, AutoHotKey, and VBA (Excel) for various in-store
-  tasks, such as verifying that a list of products exist on the website.
+  tasks, such as verifying that a product exist on the store website.
 
 ## Skills
 
@@ -120,15 +109,16 @@ Built a mobile application for mobile transactions using the Ionic framework.
 - Comfortable on GNU/Linux, Windows, and OS X.
 - Adept with terminal Git.
 - Experience using Atlassian Jira and GitHub Issues for issue tracking.
-- Favorite developer tools include Sublime Text, IBM Eclipse, and IDEA products
-  such as WebStorm and IntelliJ.
-- Use of Markdown, LaTeX, and Pandoc for near all text work.
+- Frequent use Gerrit and GitHub Pull Request system for code reviews.
+- Favorite developer tools include Atom Editor, Sublime Text, IBM Eclipse,
+  and IDEA products such as PyCharm, WebStorm, and IntelliJ.
+- Use of Markdown with export via Pandoc for near all text work.
 
 ### Hobbies
 
-- Building, programming, and using ErgoDox keyboards.
-- Typing in the Norman keyboard layout, an efficient alternative to QWERTY.
 - Practicing real-time machine stenography using Plover.
+- Building and programming custom keyboards.
+- Typing in the Norman keyboard layout, an efficient alternative to QWERTY.
 - Flying and building custom quadcopters.
 - Creating style sheets to redesign websites for personal use.
 
@@ -140,9 +130,9 @@ Built a mobile application for mobile transactions using the Ionic framework.
 
 *2012 to December 2016 (expected)*
 
-- Currently in third year, second semester
+- Currently in fourth year
 - University of Ottawa Admission Scholarship
-- Current CGPA of **8.7**/10 (**3.90**/4)
+- Current CGPA of **8.8**/10 (**3.90**/4)
 
 ## References
 

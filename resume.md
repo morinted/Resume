@@ -58,7 +58,7 @@ An open source contributor on GitHub account
 - Select a technology and build a front-end portal for each of Clearwater's products. The React-Redux portals saw a quick startup and get rapidly updated and released.
 - Sprint management was done through Jira, and code reviews with Gerrit.
 
-### Telepin Software
+### [Telepin Software](http://telepin.com)
 
 #### Mobile Application Developer
 

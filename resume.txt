@@ -96,7 +96,7 @@ Built a mobile application for mobile transactions using the Ionic framework.
 
 #### Computer Technician and Sales
 
-*July 2011 to present day*
+*July 2011 to May 2016*
 
 - Build, sell, diagnose, and repair Windows PCs.
 - Write scripts in Node.js, AutoHotKey, and VBA (Excel) for various in-store
@@ -132,7 +132,7 @@ Built a mobile application for mobile transactions using the Ionic framework.
 
 - Currently in fourth year
 - University of Ottawa Admission Scholarship
-- Current CGPA of **8.8**/10 (**3.90**/4)
+- Current CGPA of **8.8**/10 (**3.8**/4)
 
 ## References
 

@@ -1,4 +1,3 @@
-@charset "UTF-8";
 /** Less based style sheet. @author Nat Welch @author Ted Morin */
 * { margin: 0; padding: 0; }
 
@@ -35,7 +34,7 @@ body { color: #333333; line-height: 1.4em; background-color: #FAFAFA; font-famil
 #resume h1 + ul > li:before { content: ''; }
 #resume ul { list-style-type: none; }
 #resume li { text-indent: -1.1em; }
-#resume li:before { content: 'Γûá'; padding-right: 0.5em; color: #b4c2a4; }
+#resume li:before { content: '\u23F9'; padding-right: 0.5em; color: #b4c2a4; }
 @media (min-width: 840px) and (min-device-width: 840px) { #resume { margin: 30px auto; /*Let the user make a horizontal list*/ /*Float right italics after an h4,
 * Meant for dates.
 */ }

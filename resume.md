@@ -6,13 +6,16 @@
 
 ## About Ted
 
-A University of Ottawa co-op student studying to be a software engineer, with a
+That guy who writes code with a steno machine. Currently working at SHOEBOX, an awesome high-tech medical startup.
+
+A University of Ottawa Software Engineering graduate, with a
 strong interest in web technologies and applications of technology for
-accessibility purposes. Enthusiastic about the industry, and excited to work
+accessibility purposes.
+Enthusiastic about the industry, and excited to work
 on projects that have a big impact on people's lives.  Programming is a
 passion. Clean, efficient, and understandable code is personally important,
-regardless of the project or language. Prefer working with a team in a
-position that allows for growth and learning.
+regardless of the project or language. Prefers working with a team in a
+position that allows for growth, learning, and leadership.
 
 ## Technologies
 
@@ -20,9 +23,9 @@ position that allows for growth and learning.
 
 - JavaScript
 - React
+- Vue
 - Node
 - Angular
-- Ionic
 - Python
 - Java
 - Scala
@@ -36,27 +39,20 @@ position that allows for growth and learning.
 An open source contributor on GitHub account
 [morinted](https://github.com/morinted).
 
-- Current lead developer for Plover, [open source stenography software](http://opensteno.org) written in Python.
-- Original projects include:
-    * a schedule generator for the University of Ottawa. This Java project used
-      a UML code generator for its core data structures, has a Swing/AWT GUI,
-      draws on a Canvas, and uses a client/server architecture. The web scraping
-      component is made up of two Python scripts. One is a selenium web-driver
-      job that explores the uOttawa website to grab all the course names, and
-      the second is a multi-threaded script to grab the course
-      details, and parses the data with Beautiful Soup and RegEx.
-    * Bozzy, a stenographic dictionary reader written in Scala, as a fourth
-      year capstone project.
+- Current lead maintainer for Plover, [open source stenography software](http://opensteno.org) written in Python.
+
+  Maintaining Plover extends beyond just the repository. I am involved in the Open Steno project, which has included managing a Discord server, developing websites, managing social network relations, giving talks at conferences, and more. I am currently writing an open source textbook to teach others stenography: [Art of Chording](https://artofchording.com). 
 
 ### [Clearwater Clinical](http://www.clearwaterclinical.com/)
 
-#### Full Stack Developer
+#### React tribe lead
 
 *August 2015 to present*
 
-- Work on a Java server that interfaced with AWS in order to support a cloud-based application.
-- Select a technology and build a front-end portal for each of Clearwater's products. The React-Redux portals saw a quick startup and get rapidly updated and released.
-- Sprint management was done through Jira, and code reviews with Gerrit.
+- React-Redux technology lead.
+- Strong pull to motivate team and continually improve daily processes.
+- Sprint management through Jira.
+- Code reviews with Gerrit.
 
 ### [Telepin Software](http://telepin.com)
 
@@ -106,21 +102,23 @@ Built a mobile application for mobile transactions using the Ionic framework.
 
 ### Tools
 
-- Comfortable on GNU/Linux, Windows, and OS X.
+- Comfortable on GNU/Linux, Windows, and macOS.
 - Adept with terminal Git.
 - Experience using Atlassian Jira and GitHub Issues for issue tracking.
 - Frequent use Gerrit and GitHub Pull Request system for code reviews.
-- Favorite developer tools include Atom Editor, Sublime Text, IBM Eclipse,
+- Favorite developer tools include VSCode, Atom Editor, Sublime Text, IBM Eclipse,
   and IDEA products such as PyCharm, WebStorm, and IntelliJ.
-- Use of Markdown with export via Pandoc for near all text work.
+- Kinda crazy about Markdown for everything I can.
 
 ### Hobbies
 
-- Practicing real-time machine stenography using Plover.
-- Building and programming custom keyboards.
+- Practicing real-time machine stenography using Plover. I code with my steno machine.
+- Building and programming custom keyboards, with interest in the mechanical keyboard community.
+- Playing card games and collecting playing cards.
 - Typing in the Norman keyboard layout, an efficient alternative to QWERTY.
-- Flying and building custom quadcopters.
+- Flying and building quadcopters.
 - Creating style sheets to redesign websites for personal use.
+- Yo-yos are cool.
 
 ## Education
 
@@ -128,11 +126,11 @@ Built a mobile application for mobile transactions using the Ionic framework.
 
 #### University of Ottawa
 
-*2012 to December 2016 (expected)*
+*2012 to December 2016*
 
-- Currently in fourth year
 - University of Ottawa Admission Scholarship
-- Current CGPA of **8.8**/10 (**3.8**/4)
+- Dean's Honor Role list
+- CGPA of **8.8**/10 (around **3.8**/4)
 
 ## References
 

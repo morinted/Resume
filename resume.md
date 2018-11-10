@@ -12,7 +12,9 @@ A University of Ottawa Software Engineering graduate, with a
 strong interest in web technologies and applications of technology for
 accessibility purposes.
 Enthusiastic about the industry, and excited to work
-on projects that have a big impact on people's lives.  Programming is a
+on projects that have a big impact on people's lives.
+
+Programming is a
 passion. Clean, efficient, and understandable code is personally important,
 regardless of the project or language. Prefers working with a team in a
 position that allows for growth, learning, and leadership.

@@ -179,7 +179,7 @@ body {
   }
 
   li:before {
-    content: '■';
+    content: '\25A0';
     padding-right: 0.5em;
     color: $border;
   }

@@ -43,7 +43,7 @@ An open source contributor on GitHub account
 
 - Current lead maintainer for Plover, [open source stenography software](http://opensteno.org) written in Python.
 
-  Maintaining Plover extends beyond just the repository. I am involved in the Open Steno project, which has included managing a Discord server, developing websites, managing social network relations, giving talks at conferences, and more. I am currently writing an open source textbook to teach others stenography: [Art of Chording](https://artofchording.com). 
+  Maintaining Plover extends beyond just the repository. I am involved in the Open Steno project, which has included managing a Discord server, developing websites, managing social network relations, giving talks at conferences, and more. I am currently writing an open source textbook to teach others stenography: [Art of Chording](https://www.artofchording.com). 
 
 ### [Clearwater Clinical](http://www.clearwaterclinical.com/)
 

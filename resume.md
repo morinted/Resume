@@ -8,16 +8,7 @@
 
 That guy who writes code with a steno machine. Currently working at SHOEBOX, an awesome high-tech medical startup.
 
-A University of Ottawa Software Engineering graduate, with a
-strong interest in web technologies and applications of technology for
-accessibility purposes.
-Enthusiastic about the industry, and excited to work
-on projects that have a big impact on people's lives.
-
-Programming is a
-passion. Clean, efficient, and understandable code is personally important,
-regardless of the project or language. Prefers working with a team in a
-position that allows for growth, learning, and leadership.
+Enthusiastic about tech that has a big impact on improving people's quality of life. Programming is a passion; simple and elegant code is personal prority.
 
 ## Technologies
 
@@ -43,22 +34,22 @@ An open source contributor on GitHub account
 
 - Current lead maintainer for Plover, [open source stenography software](http://opensteno.org) written in Python.
 
-  Maintaining Plover extends beyond just the repository. I am involved in the Open Steno project, which has included managing a Discord server, developing websites, managing social network relations, giving talks at conferences, and more. I am currently writing an open source textbook to teach others stenography: [Art of Chording](https://www.artofchording.com). 
+  Maintaining Plover extends beyond just the repository. I am involved in the Open Steno project, which has included managing a Discord server, developing websites, managing social network relations, giving talks at conferences, and more.
 
-### [Clearwater Clinical](http://www.clearwaterclinical.com/)
+### [SHOEBOX Ltd.](http://www.shoebox.md/)
 
-#### React tribe lead
+#### Senior JavaScript Developer, Web Team Lead
 
 *August 2015 to present*
 
 - React-Redux technology lead.
 - Strong pull to motivate team and continually improve daily processes.
 - Sprint management through Jira.
-- Code reviews with Gerrit.
+- Set standards for RFC's and in-depth code reviews through GitHub.
 
 ### [Telepin Software](http://telepin.com)
 
-#### Mobile Application Developer
+#### Mobile Application Developer Co-op
 
 *May 2014 to April 2015*
 
@@ -80,15 +71,9 @@ Built a mobile application for mobile transactions using the Ionic framework.
 
 *May 2013 to August 2013*
 
-- Redesigned the test-running Java GUI to be more concise by reducing clutter
-  and predicting user action.
-- Automated the running of the regression test suite using an AutoHotKey script
-  to retrieve tests from a queue held on the intranet, then running the tests on
-  up to seven computers at once. This reduced the time it took to run a
-  regression test of a build to half of that of a manual run, and only required
-  one member of the team.
-- Created VBA macro-enabled Excel spreadsheets to automate manual tasks that the
-  team had been assigned.
+- Redesigned the test-running Java GUI to be more concise by replacing free-form text inputs with a real form.
+- Automated the running of the regression test suite which was previously executed and recorded manually.
+- Created VBA macro-enabled Excel spreadsheets to automate manual tasks that the team had been assigned.
 
 ### [RB Computing Inc.](http://shoprbc.com)
 
@@ -110,17 +95,20 @@ Built a mobile application for mobile transactions using the Ionic framework.
 - Frequent use Gerrit and GitHub Pull Request system for code reviews.
 - Favorite developer tools include VSCode, Atom Editor, Sublime Text, IBM Eclipse,
   and IDEA products such as PyCharm, WebStorm, and IntelliJ.
-- Kinda crazy about Markdown for everything I can.
+- Kinda crazy about using Markdown for everything I can.
 
 ### Hobbies
 
-- Practicing real-time machine stenography using Plover. I code with my steno machine.
+- Practicing real-time machine stenography using Plover. I write text and program with my steno machine.
+- I am currently writing an open source textbook to teach others stenography: [Art of Chording](https://www.artofchording.com).
 - Building and programming custom keyboards, with interest in the mechanical keyboard community.
 - Playing card games and collecting playing cards.
 - Typing in the Norman keyboard layout, an efficient alternative to QWERTY.
-- Flying and building quadcopters.
-- Creating style sheets to redesign websites for personal use.
-- Yo-yos are cool.
+- Writing custom style sheets for websites for personal use.
+- Natural movement and minimal footwear.
+- Foraging edible wild plants.
+- Learning Japanese for fun.
+- Yo-yos are pretty cool.
 
 ## Education
 

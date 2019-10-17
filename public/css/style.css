@@ -29,12 +29,12 @@ body { color: #333333; line-height: 1.4em; background-color: #FAFAFA; font-famil
 #resume dd { margin-left: 2em; margin-bottom: 1em; }
 #resume .horizontal-list + ul { text-align: center; }
 #resume .horizontal-list + ul li { font-size: 100%; list-style-type: none; display: inline-block; /*See media query for other version*/ width: 32.3333333333%; }
-#resume .horizontal-list + ul li:before { content: ''; }
+#resume .horizontal-list + ul li:before { content: ''; display: none; }
 #resume h1 + ul { margin-left: 0.8em; }
-#resume h1 + ul > li:before { content: ''; }
+#resume h1 + ul > li:before { content: ''; display: none; }
 #resume ul { list-style-type: none; }
 #resume li { text-indent: -0.9em; }
-#resume li:before { content: '\25A0'; padding-right: 0.4em; color: #b4c2a4; }
+#resume li:before { content: ' '; display: inline-block; margin-bottom: 0.1rem; width: 0.5rem; height: 0.5rem; margin-right: 0.4rem; background-color: #b4c2a4; }
 @media (min-width: 840px) and (min-device-width: 840px) { #resume { margin: 30px auto; /*Let the user make a horizontal list*/ /*Float right italics after an h4,
 * Meant for dates.
 */ }

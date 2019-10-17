@@ -6,7 +6,7 @@
 
 ## About Ted
 
-That guy who writes code with a steno machine. Currently working at SHOEBOX, an awesome high-tech medical startup.
+That guy who writes code with a steno machine. Currently working at SHOEBOX, an awesome high-tech hearing company.
 
 Enthusiastic about tech that has a big impact on improving people's quality of life. Programming is a passion; simple and elegant code is personal prority.
 
@@ -29,10 +29,9 @@ Enthusiastic about tech that has a big impact on improving people's quality of l
 
 ### Open Source Developer
 
-An open source contributor on GitHub account
-[morinted](https://github.com/morinted).
+GitHub account [morinted](https://github.com/morinted).
 
-- Current lead maintainer for Plover, [open source stenography software](http://opensteno.org) written in Python.
+- Current lead maintainer for **Plover**, [open source stenography software](http://opensteno.org), written in Python.
 
   Maintaining Plover extends beyond just the repository. I am involved in the Open Steno project, which has included managing a Discord server, developing websites, managing social network relations, giving talks at conferences, and more.
 
@@ -49,7 +48,7 @@ An open source contributor on GitHub account
 
 ### [Telepin Software](http://telepin.com)
 
-#### Mobile Application Developer Co-op
+#### Mobile Application Developer, Co-op
 
 *May 2014 to April 2015*
 
@@ -67,7 +66,7 @@ Built a mobile application for mobile transactions using the Ionic framework.
 
 ### Citizenship & Immigration Canada
 
-#### GCMS Automated Tester
+#### GCMS Automated Tester, Co-op
 
 *May 2013 to August 2013*
 
@@ -81,9 +80,9 @@ Built a mobile application for mobile transactions using the Ionic framework.
 
 *July 2011 to May 2016*
 
-- Build, sell, diagnose, and repair Windows PCs.
-- Write scripts in Node.js, AutoHotKey, and VBA (Excel) for various in-store
-  tasks, such as verifying that a product exist on the store website.
+- Built, sold, diagnosed, and repaired PCs.
+- Wrote Node.js, AutoHotKey, and VBA (Excel) scripts for various in-store
+tasks, such as verifying that a product existed on the store website.
 
 ## Skills
 
@@ -91,20 +90,19 @@ Built a mobile application for mobile transactions using the Ionic framework.
 
 - Comfortable on GNU/Linux, Windows, and macOS.
 - Adept with terminal Git.
-- Experience using Atlassian Jira and GitHub Issues for issue tracking.
+- Experience using Atlassian Jira and GitHub Issues for issue tracking in Agile environments.
 - Frequent use Gerrit and GitHub Pull Request system for code reviews.
-- Favorite developer tools include VSCode, Atom Editor, Sublime Text, IBM Eclipse,
+- Favorite developer tools include VSCode, Atom Editor, Sublime Text, Sublime Merge, IBM Eclipse,
   and IDEA products such as PyCharm, WebStorm, and IntelliJ.
 - Kinda crazy about using Markdown for everything I can.
 
 ### Hobbies
 
 - Practicing real-time machine stenography using Plover. I write text and program with my steno machine.
-- I am currently writing an open source textbook to teach others stenography: [Art of Chording](https://www.artofchording.com).
+- Writing an open source textbook to teach others stenography: [Art of Chording](https://www.artofchording.com).
 - Building and programming custom keyboards, with interest in the mechanical keyboard community.
 - Playing card games and collecting playing cards.
 - Typing in the Norman keyboard layout, an efficient alternative to QWERTY.
-- Writing custom style sheets for websites for personal use.
 - Natural movement and minimal footwear.
 - Foraging edible wild plants.
 - Learning Japanese for fun.
